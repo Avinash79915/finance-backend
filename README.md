@@ -1,6 +1,6 @@
 #  Finance Dashboard Backend API
 
-Zorvyn Assignment   finance backend system built using **Node.js, Express.js, and MongoDB** that manages financial records, user roles, and provides dashboard insights.
+finance backend system built using **Node.js, Express.js, and MongoDB** that manages financial records, user roles, and provides dashboard insights.
 
 ---
 
