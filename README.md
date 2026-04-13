@@ -37,7 +37,8 @@ src/
 
 ---
 #  Project Flow and logic
-![WhatsApp Image 2026-04-05 at 3 12 48 PM](https://github.com/user-attachments/assets/1ed45691-c60f-4144-a8bf-be81fa2fc3df)
+![WhatsApp Image 2026-04-05 at 3 12 48 PM](https://github.com/user-attachments/assets/31d39071-e0d7-4983-9fbb-c363e9660a8a)
+
 
 #  Project Setup
 
